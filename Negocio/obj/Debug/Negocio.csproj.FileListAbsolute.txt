@@ -1,0 +1,44 @@
+C:\Users\USUARIO\OneDrive\Escritorio\Nueva carpeta\Prototipo\Negocio\bin\Debug\Negocio.dll
+C:\Users\USUARIO\OneDrive\Escritorio\Nueva carpeta\Prototipo\Negocio\bin\Debug\Negocio.pdb
+C:\Users\USUARIO\OneDrive\Escritorio\Nueva carpeta\Prototipo\Negocio\bin\Debug\DAO.dll
+C:\Users\USUARIO\OneDrive\Escritorio\Nueva carpeta\Prototipo\Negocio\bin\Debug\Entidades.dll
+C:\Users\USUARIO\OneDrive\Escritorio\Nueva carpeta\Prototipo\Negocio\bin\Debug\DAO.pdb
+C:\Users\USUARIO\OneDrive\Escritorio\Nueva carpeta\Prototipo\Negocio\bin\Debug\Entidades.pdb
+C:\Users\USUARIO\OneDrive\Escritorio\Nueva carpeta\Prototipo\Negocio\obj\Debug\Negocio.csprojAssemblyReference.cache
+C:\Users\USUARIO\OneDrive\Escritorio\Nueva carpeta\Prototipo\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\OneDrive\Escritorio\Nueva carpeta\Prototipo\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\USUARIO\OneDrive\Escritorio\Nueva carpeta\Prototipo\Negocio\obj\Debug\Negocio.dll
+C:\Users\USUARIO\OneDrive\Escritorio\Nueva carpeta\Prototipo\Negocio\obj\Debug\Negocio.pdb
+C:\Users\USUARIO\OneDrive\Escritorio\TPI Segunda Entrega\Prototipo\Negocio\bin\Debug\Negocio.dll
+C:\Users\USUARIO\OneDrive\Escritorio\TPI Segunda Entrega\Prototipo\Negocio\bin\Debug\Negocio.pdb
+C:\Users\USUARIO\OneDrive\Escritorio\TPI Segunda Entrega\Prototipo\Negocio\bin\Debug\DAO.dll
+C:\Users\USUARIO\OneDrive\Escritorio\TPI Segunda Entrega\Prototipo\Negocio\bin\Debug\Entidades.dll
+C:\Users\USUARIO\OneDrive\Escritorio\TPI Segunda Entrega\Prototipo\Negocio\bin\Debug\DAO.pdb
+C:\Users\USUARIO\OneDrive\Escritorio\TPI Segunda Entrega\Prototipo\Negocio\bin\Debug\Entidades.pdb
+C:\Users\USUARIO\OneDrive\Escritorio\TPI Segunda Entrega\Prototipo\Negocio\obj\Debug\Negocio.csprojAssemblyReference.cache
+C:\Users\USUARIO\OneDrive\Escritorio\TPI Segunda Entrega\Prototipo\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\OneDrive\Escritorio\TPI Segunda Entrega\Prototipo\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\USUARIO\OneDrive\Escritorio\TPI Segunda Entrega\Prototipo\Negocio\obj\Debug\Negocio.dll
+C:\Users\USUARIO\OneDrive\Escritorio\TPI Segunda Entrega\Prototipo\Negocio\obj\Debug\Negocio.pdb
+C:\Users\USUARIO\OneDrive\Escritorio\TP JULI\TP Final\Negocio\bin\Debug\Negocio.dll
+C:\Users\USUARIO\OneDrive\Escritorio\TP JULI\TP Final\Negocio\bin\Debug\Negocio.pdb
+C:\Users\USUARIO\OneDrive\Escritorio\TP JULI\TP Final\Negocio\bin\Debug\DAO.dll
+C:\Users\USUARIO\OneDrive\Escritorio\TP JULI\TP Final\Negocio\bin\Debug\Entidades.dll
+C:\Users\USUARIO\OneDrive\Escritorio\TP JULI\TP Final\Negocio\bin\Debug\DAO.pdb
+C:\Users\USUARIO\OneDrive\Escritorio\TP JULI\TP Final\Negocio\bin\Debug\Entidades.pdb
+C:\Users\USUARIO\OneDrive\Escritorio\TP JULI\TP Final\Negocio\obj\Debug\Negocio.csprojAssemblyReference.cache
+C:\Users\USUARIO\OneDrive\Escritorio\TP JULI\TP Final\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\OneDrive\Escritorio\TP JULI\TP Final\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\USUARIO\OneDrive\Escritorio\TP JULI\TP Final\Negocio\obj\Debug\Negocio.dll
+C:\Users\USUARIO\OneDrive\Escritorio\TP JULI\TP Final\Negocio\obj\Debug\Negocio.pdb
+C:\Users\user\Desktop\joaquin\facultad\prog 3\TP Final\Negocio\bin\Debug\Negocio.dll
+C:\Users\user\Desktop\joaquin\facultad\prog 3\TP Final\Negocio\bin\Debug\Negocio.pdb
+C:\Users\user\Desktop\joaquin\facultad\prog 3\TP Final\Negocio\bin\Debug\DAO.dll
+C:\Users\user\Desktop\joaquin\facultad\prog 3\TP Final\Negocio\bin\Debug\Entidades.dll
+C:\Users\user\Desktop\joaquin\facultad\prog 3\TP Final\Negocio\bin\Debug\DAO.pdb
+C:\Users\user\Desktop\joaquin\facultad\prog 3\TP Final\Negocio\bin\Debug\Entidades.pdb
+C:\Users\user\Desktop\joaquin\facultad\prog 3\TP Final\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\joaquin\facultad\prog 3\TP Final\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\user\Desktop\joaquin\facultad\prog 3\TP Final\Negocio\obj\Debug\Negocio.dll
+C:\Users\user\Desktop\joaquin\facultad\prog 3\TP Final\Negocio\obj\Debug\Negocio.pdb
+C:\Users\user\Desktop\joaquin\facultad\prog 3\TP Final\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache

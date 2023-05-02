@@ -1,0 +1,118 @@
+C:\Users\santy\Desktop\Prototipo\Prototipo\bin\Prototipo.dll.config
+C:\Users\santy\Desktop\Prototipo\Prototipo\bin\Prototipo.dll
+C:\Users\santy\Desktop\Prototipo\Prototipo\bin\Prototipo.pdb
+C:\Users\santy\Desktop\Prototipo\Prototipo\bin\roslyn\csc.exe
+C:\Users\santy\Desktop\Prototipo\Prototipo\bin\roslyn\csc.exe.config
+C:\Users\santy\Desktop\Prototipo\Prototipo\bin\roslyn\csc.rsp
+C:\Users\santy\Desktop\Prototipo\Prototipo\bin\roslyn\csi.exe
+C:\Users\santy\Desktop\Prototipo\Prototipo\bin\roslyn\csi.exe.config
+C:\Users\santy\Desktop\Prototipo\Prototipo\bin\roslyn\csi.rsp
+C:\Users\santy\Desktop\Prototipo\Prototipo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\santy\Desktop\Prototipo\Prototipo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\santy\Desktop\Prototipo\Prototipo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\santy\Desktop\Prototipo\Prototipo\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\santy\Desktop\Prototipo\Prototipo\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\santy\Desktop\Prototipo\Prototipo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\santy\Desktop\Prototipo\Prototipo\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\santy\Desktop\Prototipo\Prototipo\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\santy\Desktop\Prototipo\Prototipo\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\santy\Desktop\Prototipo\Prototipo\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\santy\Desktop\Prototipo\Prototipo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\santy\Desktop\Prototipo\Prototipo\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\santy\Desktop\Prototipo\Prototipo\bin\roslyn\System.AppContext.dll
+C:\Users\santy\Desktop\Prototipo\Prototipo\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\santy\Desktop\Prototipo\Prototipo\bin\roslyn\System.Console.dll
+C:\Users\santy\Desktop\Prototipo\Prototipo\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\santy\Desktop\Prototipo\Prototipo\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\santy\Desktop\Prototipo\Prototipo\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\santy\Desktop\Prototipo\Prototipo\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\santy\Desktop\Prototipo\Prototipo\bin\roslyn\System.IO.Compression.dll
+C:\Users\santy\Desktop\Prototipo\Prototipo\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\santy\Desktop\Prototipo\Prototipo\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\santy\Desktop\Prototipo\Prototipo\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\santy\Desktop\Prototipo\Prototipo\bin\roslyn\System.Net.Http.dll
+C:\Users\santy\Desktop\Prototipo\Prototipo\bin\roslyn\System.Net.Sockets.dll
+C:\Users\santy\Desktop\Prototipo\Prototipo\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\santy\Desktop\Prototipo\Prototipo\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\santy\Desktop\Prototipo\Prototipo\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\santy\Desktop\Prototipo\Prototipo\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\santy\Desktop\Prototipo\Prototipo\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\santy\Desktop\Prototipo\Prototipo\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\santy\Desktop\Prototipo\Prototipo\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\santy\Desktop\Prototipo\Prototipo\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\santy\Desktop\Prototipo\Prototipo\bin\roslyn\System.ValueTuple.dll
+C:\Users\santy\Desktop\Prototipo\Prototipo\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\santy\Desktop\Prototipo\Prototipo\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\santy\Desktop\Prototipo\Prototipo\bin\roslyn\System.Xml.XPath.dll
+C:\Users\santy\Desktop\Prototipo\Prototipo\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\santy\Desktop\Prototipo\Prototipo\bin\roslyn\vbc.exe
+C:\Users\santy\Desktop\Prototipo\Prototipo\bin\roslyn\vbc.exe.config
+C:\Users\santy\Desktop\Prototipo\Prototipo\bin\roslyn\vbc.rsp
+C:\Users\santy\Desktop\Prototipo\Prototipo\bin\roslyn\VBCSCompiler.exe
+C:\Users\santy\Desktop\Prototipo\Prototipo\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\santy\Desktop\Prototipo\Prototipo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\santy\Desktop\Prototipo\Prototipo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\santy\Desktop\Prototipo\Prototipo\obj\Debug\Prototipo.csprojAssemblyReference.cache
+C:\Users\santy\Desktop\Prototipo\Prototipo\obj\Debug\Prototipo.csproj.CoreCompileInputs.cache
+C:\Users\santy\Desktop\Prototipo\Prototipo\obj\Debug\Prototipo.csproj.CopyComplete
+C:\Users\santy\Desktop\Prototipo\Prototipo\obj\Debug\Prototipo.dll
+C:\Users\santy\Desktop\Prototipo\Prototipo\obj\Debug\Prototipo.pdb
+C:\Users\USUARIO\OneDrive\Escritorio\Nueva carpeta (2)\Prototipo\Prototipo\bin\Prototipo.dll.config
+C:\Users\USUARIO\OneDrive\Escritorio\Nueva carpeta (2)\Prototipo\Prototipo\bin\Prototipo.dll
+C:\Users\USUARIO\OneDrive\Escritorio\Nueva carpeta (2)\Prototipo\Prototipo\bin\Prototipo.pdb
+C:\Users\USUARIO\OneDrive\Escritorio\Nueva carpeta (2)\Prototipo\Prototipo\bin\roslyn\csc.exe
+C:\Users\USUARIO\OneDrive\Escritorio\Nueva carpeta (2)\Prototipo\Prototipo\bin\roslyn\csc.exe.config
+C:\Users\USUARIO\OneDrive\Escritorio\Nueva carpeta (2)\Prototipo\Prototipo\bin\roslyn\csc.rsp
+C:\Users\USUARIO\OneDrive\Escritorio\Nueva carpeta (2)\Prototipo\Prototipo\bin\roslyn\csi.exe
+C:\Users\USUARIO\OneDrive\Escritorio\Nueva carpeta (2)\Prototipo\Prototipo\bin\roslyn\csi.exe.config
+C:\Users\USUARIO\OneDrive\Escritorio\Nueva carpeta (2)\Prototipo\Prototipo\bin\roslyn\csi.rsp
+C:\Users\USUARIO\OneDrive\Escritorio\Nueva carpeta (2)\Prototipo\Prototipo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\USUARIO\OneDrive\Escritorio\Nueva carpeta (2)\Prototipo\Prototipo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\USUARIO\OneDrive\Escritorio\Nueva carpeta (2)\Prototipo\Prototipo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\USUARIO\OneDrive\Escritorio\Nueva carpeta (2)\Prototipo\Prototipo\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\USUARIO\OneDrive\Escritorio\Nueva carpeta (2)\Prototipo\Prototipo\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\USUARIO\OneDrive\Escritorio\Nueva carpeta (2)\Prototipo\Prototipo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\USUARIO\OneDrive\Escritorio\Nueva carpeta (2)\Prototipo\Prototipo\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\USUARIO\OneDrive\Escritorio\Nueva carpeta (2)\Prototipo\Prototipo\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\USUARIO\OneDrive\Escritorio\Nueva carpeta (2)\Prototipo\Prototipo\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\USUARIO\OneDrive\Escritorio\Nueva carpeta (2)\Prototipo\Prototipo\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\USUARIO\OneDrive\Escritorio\Nueva carpeta (2)\Prototipo\Prototipo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\USUARIO\OneDrive\Escritorio\Nueva carpeta (2)\Prototipo\Prototipo\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\USUARIO\OneDrive\Escritorio\Nueva carpeta (2)\Prototipo\Prototipo\bin\roslyn\System.AppContext.dll
+C:\Users\USUARIO\OneDrive\Escritorio\Nueva carpeta (2)\Prototipo\Prototipo\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\USUARIO\OneDrive\Escritorio\Nueva carpeta (2)\Prototipo\Prototipo\bin\roslyn\System.Console.dll
+C:\Users\USUARIO\OneDrive\Escritorio\Nueva carpeta (2)\Prototipo\Prototipo\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\USUARIO\OneDrive\Escritorio\Nueva carpeta (2)\Prototipo\Prototipo\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\USUARIO\OneDrive\Escritorio\Nueva carpeta (2)\Prototipo\Prototipo\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\USUARIO\OneDrive\Escritorio\Nueva carpeta (2)\Prototipo\Prototipo\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\USUARIO\OneDrive\Escritorio\Nueva carpeta (2)\Prototipo\Prototipo\bin\roslyn\System.IO.Compression.dll
+C:\Users\USUARIO\OneDrive\Escritorio\Nueva carpeta (2)\Prototipo\Prototipo\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\USUARIO\OneDrive\Escritorio\Nueva carpeta (2)\Prototipo\Prototipo\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\USUARIO\OneDrive\Escritorio\Nueva carpeta (2)\Prototipo\Prototipo\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\USUARIO\OneDrive\Escritorio\Nueva carpeta (2)\Prototipo\Prototipo\bin\roslyn\System.Net.Http.dll
+C:\Users\USUARIO\OneDrive\Escritorio\Nueva carpeta (2)\Prototipo\Prototipo\bin\roslyn\System.Net.Sockets.dll
+C:\Users\USUARIO\OneDrive\Escritorio\Nueva carpeta (2)\Prototipo\Prototipo\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\USUARIO\OneDrive\Escritorio\Nueva carpeta (2)\Prototipo\Prototipo\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\USUARIO\OneDrive\Escritorio\Nueva carpeta (2)\Prototipo\Prototipo\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\USUARIO\OneDrive\Escritorio\Nueva carpeta (2)\Prototipo\Prototipo\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\USUARIO\OneDrive\Escritorio\Nueva carpeta (2)\Prototipo\Prototipo\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\USUARIO\OneDrive\Escritorio\Nueva carpeta (2)\Prototipo\Prototipo\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\USUARIO\OneDrive\Escritorio\Nueva carpeta (2)\Prototipo\Prototipo\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\USUARIO\OneDrive\Escritorio\Nueva carpeta (2)\Prototipo\Prototipo\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\USUARIO\OneDrive\Escritorio\Nueva carpeta (2)\Prototipo\Prototipo\bin\roslyn\System.ValueTuple.dll
+C:\Users\USUARIO\OneDrive\Escritorio\Nueva carpeta (2)\Prototipo\Prototipo\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\USUARIO\OneDrive\Escritorio\Nueva carpeta (2)\Prototipo\Prototipo\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\USUARIO\OneDrive\Escritorio\Nueva carpeta (2)\Prototipo\Prototipo\bin\roslyn\System.Xml.XPath.dll
+C:\Users\USUARIO\OneDrive\Escritorio\Nueva carpeta (2)\Prototipo\Prototipo\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\USUARIO\OneDrive\Escritorio\Nueva carpeta (2)\Prototipo\Prototipo\bin\roslyn\vbc.exe
+C:\Users\USUARIO\OneDrive\Escritorio\Nueva carpeta (2)\Prototipo\Prototipo\bin\roslyn\vbc.exe.config
+C:\Users\USUARIO\OneDrive\Escritorio\Nueva carpeta (2)\Prototipo\Prototipo\bin\roslyn\vbc.rsp
+C:\Users\USUARIO\OneDrive\Escritorio\Nueva carpeta (2)\Prototipo\Prototipo\bin\roslyn\VBCSCompiler.exe
+C:\Users\USUARIO\OneDrive\Escritorio\Nueva carpeta (2)\Prototipo\Prototipo\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\USUARIO\OneDrive\Escritorio\Nueva carpeta (2)\Prototipo\Prototipo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\USUARIO\OneDrive\Escritorio\Nueva carpeta (2)\Prototipo\Prototipo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\USUARIO\OneDrive\Escritorio\Nueva carpeta (2)\Prototipo\Prototipo\obj\Debug\Prototipo.csprojAssemblyReference.cache
+C:\Users\USUARIO\OneDrive\Escritorio\Nueva carpeta (2)\Prototipo\Prototipo\obj\Debug\Prototipo.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\OneDrive\Escritorio\Nueva carpeta (2)\Prototipo\Prototipo\obj\Debug\Prototipo.csproj.CopyComplete
+C:\Users\USUARIO\OneDrive\Escritorio\Nueva carpeta (2)\Prototipo\Prototipo\obj\Debug\Prototipo.dll
+C:\Users\USUARIO\OneDrive\Escritorio\Nueva carpeta (2)\Prototipo\Prototipo\obj\Debug\Prototipo.pdb

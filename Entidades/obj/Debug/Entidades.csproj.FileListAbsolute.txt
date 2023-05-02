@@ -1,0 +1,18 @@
+C:\Users\USUARIO\OneDrive\Escritorio\Nueva carpeta\Prototipo\Entidades\bin\Debug\Entidades.dll
+C:\Users\USUARIO\OneDrive\Escritorio\Nueva carpeta\Prototipo\Entidades\bin\Debug\Entidades.pdb
+C:\Users\USUARIO\OneDrive\Escritorio\Nueva carpeta\Prototipo\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\USUARIO\OneDrive\Escritorio\Nueva carpeta\Prototipo\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\OneDrive\Escritorio\Nueva carpeta\Prototipo\Entidades\obj\Debug\Entidades.dll
+C:\Users\USUARIO\OneDrive\Escritorio\Nueva carpeta\Prototipo\Entidades\obj\Debug\Entidades.pdb
+C:\Users\USUARIO\OneDrive\Escritorio\TPI Segunda Entrega\Prototipo\Entidades\bin\Debug\Entidades.dll
+C:\Users\USUARIO\OneDrive\Escritorio\TPI Segunda Entrega\Prototipo\Entidades\bin\Debug\Entidades.pdb
+C:\Users\USUARIO\OneDrive\Escritorio\TPI Segunda Entrega\Prototipo\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\USUARIO\OneDrive\Escritorio\TPI Segunda Entrega\Prototipo\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\OneDrive\Escritorio\TPI Segunda Entrega\Prototipo\Entidades\obj\Debug\Entidades.dll
+C:\Users\USUARIO\OneDrive\Escritorio\TPI Segunda Entrega\Prototipo\Entidades\obj\Debug\Entidades.pdb
+C:\Users\user\Desktop\joaquin\facultad\prog 3\TP Final\Entidades\bin\Debug\Entidades.dll
+C:\Users\user\Desktop\joaquin\facultad\prog 3\TP Final\Entidades\bin\Debug\Entidades.pdb
+C:\Users\user\Desktop\joaquin\facultad\prog 3\TP Final\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\joaquin\facultad\prog 3\TP Final\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\joaquin\facultad\prog 3\TP Final\Entidades\obj\Debug\Entidades.dll
+C:\Users\user\Desktop\joaquin\facultad\prog 3\TP Final\Entidades\obj\Debug\Entidades.pdb
